@@ -4,8 +4,6 @@
 
 package com.mycompany.banco_projeto;
 
-import java.text.DecimalFormat;
-
 /**
  *
  * @author Administrator
